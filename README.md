@@ -21,27 +21,10 @@ Git: Control de versiones.
 📂 Proyectos
 Cada subcarpeta en este repositorio contiene un proyecto de automatización independiente. Te invito a explorar cada uno para ver los detalles específicos, la implementación y las funcionalidades cubiertas.
 
-./proyecto_login_app/ - Automatización de un flujo de inicio de sesión.
-
-./proyecto_ecommerce_test/ - Pruebas funcionales para un sitio de comercio electrónico.
-
-./proyecto_data_driven_test/ - Ejemplo de pruebas basadas en datos.
-
-(Agrega aquí más líneas por cada proyecto que tengas, con una breve descripción)
-
-🚀 Cómo Ejecutar un Proyecto
-Para ejecutar cualquiera de los proyectos:
-
-Clona este repositorio: git clone https://github.com/tu-usuario/tu-repositorio.git
-
-Navega a la carpeta del proyecto deseado: cd tu-repositorio/nombre_del_proyecto
-
-Sigue las instrucciones específicas en el README.md de esa carpeta. Cada proyecto tiene su propio archivo README.md con detalles sobre la configuración de entorno virtual, instalación de dependencias (requirements.txt) y comandos de ejecución.
-
 📧 Contacto
 Estoy siempre abierto a conectar y discutir sobre Quality Assurance y automatización.
 
-Facundo Montaño
+# Facundo Montaño
 
 Correo electrónico: montanofacundo@gmail.com
 
